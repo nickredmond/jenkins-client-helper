@@ -1,6 +1,6 @@
 {
   "name": "jenkins-client-helper",
-  "version": "1.0.72",
+  "version": "1.0.74",
   "description": "Provides helper methods for interacting with the Jenkins API",
   "main": "index.js",
   "scripts": {
